@@ -17,7 +17,7 @@ import static com.mongodb.client.model.Filters.eq;
 public class EmailService {
 
 	// private final String fromEmail = "bikashmohantymca@gmail.com";
-	// private final String password = "bxweusubenwqbfvj";
+	// private final String password = "xxx";
 	// private final Properties appProperties;
 	private final String tunnelUrl; // <-- NEW: Save the tunnel URL at object creation!
 
