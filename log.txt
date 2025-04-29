@@ -1,0 +1,40 @@
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+'#pause' is not recognized as an internal or external command,
+operable program or batch file.
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Access is denied.
+Access is denied.
+Access is denied.
+Server execution finished. See acknowledgment_log.txt for details.
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+Error: Unable to access jarfile acknowledgment-app-1.0-SNAPSHOT-jar-with-dependencies.jar
