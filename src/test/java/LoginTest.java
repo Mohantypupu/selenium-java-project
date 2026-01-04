@@ -1,9 +1,29 @@
+//package com.login;
+
 import org.junit.Test;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 
-public class LoginTest {
+import io.github.bonigarcia.wdm.WebDriverManager;
+import junit.framework.Assert;
 
-    @Test
-    public void testLogin() {
-        System.out.println("Test executed");
-    }
+public class T1Test {
+
+	@Test
+	public void testLogin() {
+
+		WebDriverManager.chromedriver().setup();
+		WebDriver driver = new ChromeDriver();
+
+		driver.get("https://www.google.com");
+		
+		
+		Assert.assertEquals(false, false);
+		
+		
+		
+		driver.quit();
+
+	}
+
 }
