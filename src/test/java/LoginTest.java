@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import junit.framework.Assert;
 
-public class T1Test {
+public class LoginTest {
 
 	@Test
 	public void testLogin() {
