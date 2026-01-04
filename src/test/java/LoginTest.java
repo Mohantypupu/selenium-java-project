@@ -13,7 +13,16 @@ public class LoginTest {
 	public void testLogin() {
 
 		WebDriverManager.chromedriver().setup();
-		WebDriver driver = new ChromeDriver();
+		ChromeOptions options = new ChromeOptions();
+
+        // REQUIRED for GitHub Actions
+        options.addArguments("--headless=new");
+        options.addArguments("--no-sandbox");
+        options.addArguments("--disable-dev-shm-usage");
+        options.addArguments("--disable-gpu");
+        options.addArguments("--window-size=1920,1080");
+
+        WebDriver driver = new ChromeDriver(options);
 
 		driver.get("https://www.google.com");
 		
